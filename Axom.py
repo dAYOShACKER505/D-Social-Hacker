@@ -57,7 +57,7 @@ def useragent():
   return random.choice(useragents)
 
 def menuit():
-    print ''' Do you wish to go to the menu or quit program?'''
+    print ''' (Do you wish to go to the menu or quit program?)'''
     print '(m = menu, q = quit)'
     menuit = raw_input(':')
     menuit = menuit.lower()
