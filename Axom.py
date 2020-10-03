@@ -74,9 +74,7 @@ def msms():
     os.system('clear')
     print ""+G+" "
     print """
-        
-        [°] Mass List SMS Attack______
-        
+        [°] Mass List SMS Attack______ 
         When creating the file list, remember to attack the carrier to the end of each number.
         [+] example. 4567834214@txt.att.net[+]
         here is a list of the different carrier types.
@@ -134,10 +132,7 @@ def ssms():
     os.system('clear')
     print ""+B+""
     print ("""
-        
         [°]Single SMS Attack-------------------------[√]
-        
-
         "AT&T: @txt.att.net"
         "Qwest: @tmomail.net"
         "T-Mobile: @tmomail.net"
